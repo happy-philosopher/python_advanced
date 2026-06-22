@@ -1,0 +1,11 @@
+.idea/
+venv/
+.venv/
+img/
+empty/
+temp/
+**/__pycache__/
+test*.py
+test*.txt
+main_*.py
+*.json
