@@ -1,4 +1,4 @@
-# Pydantic-модели для валидации
+# Pydantic-модели для валидации (app/schemas.py)
 
 
 from pydantic import BaseModel

@@ -1,4 +1,4 @@
-# ORM-модели со связями
+# ORM-модели со связями (app/models.py)
 
 
 from datetime import date

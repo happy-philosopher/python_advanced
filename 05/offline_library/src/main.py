@@ -1,4 +1,4 @@
-# Реализация FastAPI с CRUD-эндпоинтами
+# Реализация FastAPI с CRUD-эндпоинтами (main.py)
 
 
 from sqlalchemy.ext.asyncio import AsyncSession

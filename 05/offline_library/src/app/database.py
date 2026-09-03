@@ -1,4 +1,4 @@
-# Настройка асинхронного подключения к SQLite
+# Настройка асинхронного подключения к SQLite (app/database.py)
 
 
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession

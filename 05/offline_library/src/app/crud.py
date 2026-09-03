@@ -1,4 +1,4 @@
-# Функции CRUD
+# Функции CRUD (app/crud.py)
 
 
 from .models import Author, Book, Client, Order
